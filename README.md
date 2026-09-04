@@ -12,6 +12,6 @@ i care about:
 this is a working profile. most of the interesting stuff is private (client work, in-progress). what's here is the part i'm happy to show.
 
 ## currently
-- refining a [premium single-page template](https://github.com/vellumous/manies-pizza) for a Cape Town pizza place (menu as source of truth, WhatsApp ordering, offline PWA)
+- a [premium single-page template](https://github.com/vellumous/manies-pizza) for a Cape Town pizza place — menu as source of truth, WhatsApp ordering, offline PWA
 - rebuilding a slow WooCommerce site with actual class
 - learning to be a person on the internet
